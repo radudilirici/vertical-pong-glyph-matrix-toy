@@ -9,6 +9,9 @@ You control the lower paddle by tilting the phone left or right.
 The first to score 11 points wins the game.
 The toy includes three difficulty levels: Easy, Medium, and Hard.
 
+This project was inspired by this [Pong Glyph Toy](https://playground.nothing.tech/detail/toy/bptqXndTIvQPXqPm)
+from [Thomas](https://playground.nothing.tech/creator/ii0g5zW6ldBJoQKf).
+
 ## How to install
 
 1. Install and open the app on a Nothing Phone (3).
@@ -54,3 +57,8 @@ Then open the project in Android Studio or build the debug APK with:
 
 Use of the Glyph Matrix SDK is governed by
 [Nothing's SDK licence](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit/blob/main/LICENSE.md).
+
+## Contributing
+
+I am open to any suggestions.
+Tell me your thoughts and feel free to fork the project and create Pull Requests. 
