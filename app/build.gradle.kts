@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "io.github.radudilirici.verticalpongglyphmatrixtoy"
+    namespace = "com.radudilirici.verticalpongtoy3"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "io.github.radudilirici.verticalpongglyphmatrixtoy"
+        applicationId = "com.radudilirici.verticalpongtoy3"
         minSdk = 35
         targetSdk = 36
         versionCode = 1
@@ -46,6 +46,7 @@ dependencies {
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
+    implementation(files("libs/GlyphMatrixSDK.aar"))
     testImplementation(libs.junit)
     androidTestImplementation(platform(libs.androidx.compose.bom))
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)

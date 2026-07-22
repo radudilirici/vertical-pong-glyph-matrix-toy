@@ -1,4 +1,4 @@
-package com.example.pongglyphtoy.glyph
+package com.radudilirici.verticalpongtoy3.glyph
 
 import android.app.Service
 import android.content.ComponentName

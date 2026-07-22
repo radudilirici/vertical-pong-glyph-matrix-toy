@@ -1,4 +1,4 @@
-package com.example.pongglyphtoy
+package com.radudilirici.verticalpongtoy3
 
 import android.content.ComponentName
 import android.content.Intent
@@ -25,7 +25,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.pongglyphtoy.ui.theme.PongGlyphToyTheme
+import com.radudilirici.verticalpongtoy3.ui.theme.PongGlyphToyTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

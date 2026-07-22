@@ -1,4 +1,4 @@
-package com.example.pongglyphtoy.glyph
+package com.radudilirici.verticalpongtoy3.glyph
 
 import kotlin.math.atan2
 import kotlin.math.hypot

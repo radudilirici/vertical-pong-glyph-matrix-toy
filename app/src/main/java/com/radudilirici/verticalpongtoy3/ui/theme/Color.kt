@@ -1,4 +1,4 @@
-package com.example.pongglyphtoy.ui.theme
+package com.radudilirici.verticalpongtoy3.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.pongglyphtoy.glyph
+package com.radudilirici.verticalpongtoy3.glyph
 
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue

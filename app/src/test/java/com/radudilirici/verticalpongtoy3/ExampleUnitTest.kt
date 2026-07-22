@@ -1,4 +1,4 @@
-package com.example.pongglyphtoy
+package com.radudilirici.verticalpongtoy3
 
 import org.junit.Test
 

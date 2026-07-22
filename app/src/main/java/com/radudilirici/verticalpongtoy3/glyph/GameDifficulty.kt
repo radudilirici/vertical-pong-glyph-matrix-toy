@@ -1,4 +1,4 @@
-package com.example.pongglyphtoy.glyph
+package com.radudilirici.verticalpongtoy3.glyph
 
 internal data class OpponentSettings(
     val minimumInitialReactionSeconds: Float,
