@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vertical Pong</string>
+    <string name="toy_name">Vertical Pong</string>
+    <string name="toy_summary">Pong with a (90°) twist.</string>
+    <string name="setup_title">Vertical Pong Glyph Toy</string>
+    <string name="setup_description">Tilt left or right to scroll through Easy, Medium, and Hard, then long press to start. During play, tilt left and right to move the lower paddle, or long press to return to the difficulty menu. Adjust the Glyph Toys timeout to avoid interruptions.</string>
+    <string name="activate_toy">Activate toy</string>
+    <string name="manager_unavailable">The Glyph Toys manager is only available on a supported Nothing OS version.</string>
+</resources>
